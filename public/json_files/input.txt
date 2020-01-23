@@ -1,0 +1,43 @@
+[{
+	"group": "user_data",
+	"column": "first_name",
+	"operation": "is_equal",
+	"value": ["Osama"],
+	"sub_operation": "and",
+	"id": "1554280538826"
+}, {
+	"group": "user_data",
+	"column": "last_name",
+	"operation": "is_equal",
+	"value": ["Ali"],
+	"sub_operation": "and",
+	"id": "1554280636185"
+}, {
+	"group": "user_data",
+	"column": "gender",
+	"operation": "is_equal",
+	"value": ["male"],
+	"sub_operation": "or",
+	"id": "1554280651661"
+}, {
+	"group": "user_data",
+	"column": "first_name",
+	"operation": "is_equal",
+	"value": ["Ahmed", "Nermeen"],
+	"sub_operation": "or",
+	"id": "1554280672204"
+}, {
+	"group": "user_data",
+	"column": "first_name",
+	"operation": "is_equal",
+	"value": ["Samar"],
+	"sub_operation": "and",
+	"id": "1554280698429"
+}, {
+	"group": "user_data",
+	"column": "gender",
+	"operation": "is_equal",
+	"value": ["female"],
+	"sub_operation": null,
+	"id": "1554280714633"
+}]
